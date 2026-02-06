@@ -1,2 +1,2 @@
 # Customer-Churn-Analysis-and-Prediction
-Customer Churn Analysis and Prediction using Power BI to identify high-risk customers and support retention strategies.
+Customer churn analysis using Power BI and DAX to identify high-risk customers and retention insights
